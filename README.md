@@ -15,4 +15,14 @@ Module 5 Programs added 8/1/2023
 Custom Shape - This program creates a custom set shape using the turtle library.
 Hundred_times.py - This program prints the string "Hello World!" 100 times.
 Draw polygon.py - This program allows for the user to create polygons using the turtle library.
-List.py - This program takes a list of numbers, 12, 10, 32, 3, 66, 17, 42, 99, 20, and prints each number on a new line. In another function, we will print each number and its square on a new line. 
+List.py - This program takes a list of numbers, 12, 10, 32, 3, 66, 17, 42, 99, 20, and prints each number on a new line. In another function, we will print each number and its square on a new line.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Module 6 Programs - Random and Math libraries added 8/8/2023
+
+10 random ints.py - This program prints 10 random integers from within the range of 25 and 35.
+Fact.py - This program calculates the factorial of a user input. It prints this value and then the calulated value using the math library fuction.  
+radians to degrees.py - This program takes an input in radians and converts it to degrees. It then prints that value, as well as the built-in conversion function from the math library.
+pi.py - This program approximates the value of pi and then prints it above the true value of pi according to the math library.
+random day.py - This program selects and prints a random day from a list of days.
+random odd int.py - This program prints a random odd integer between 0 and 100.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
